@@ -1,0 +1,96 @@
+/* backgound effects */
+body {
+  background-color: #fff;
+}
+
+.top-image {
+  margin-top: 0;
+  position: absolute;
+}
+
+.bottom-image {
+  position: relative;
+  width: fit-content;
+  margin: 0;
+  padding: 0;
+}
+
+/* Title section  */
+.paragrph {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  padding: 5% 8%;
+  position: relative;
+}
+
+.teme {
+  text-align: left;
+  color: #9d0191;
+}
+
+.review, .report, .bestteck {
+  background-color: #ffd3e1;
+  color: #550a46;
+  text-align: center;
+  position: relative;
+  width: 80%;
+  padding: 4px 2px;
+  word-spacing: 2px;
+}
+
+.report {
+  top: 12px;
+  left: 8px;
+  width: 80%;
+}
+
+.bestteck {
+  top: 24px;
+  left: 16px;
+  width: 80%;
+}
+
+/* Fedbacks section  */
+.middle-container {
+  padding: 5% 8%;
+  position: absolute;
+  margin-bottom: 5px;
+}
+
+.comment1, .comment2, .comment3 {
+  padding: 2%;
+}
+
+.comment2 {
+  top: 1.5rem;
+}
+
+.comment3 {
+  top: 2.8rem;
+}
+
+.fedback {
+  background-color: #550a46;
+  color: #fff;
+}
+
+.profile-images {
+  border-radius: 100%;
+  width: 2rem;
+  float: left;
+  margin-right: 1rem;
+}
+
+.verification {
+  color: #9d0191;
+}
+
+/* Atribution */
+.attribution {
+  text-align: center;
+  margin-top: 25%;
+  color: darkgrey;
+}
